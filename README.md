@@ -1,5 +1,6 @@
 # Ascii-Camera
-python script that converts your camera into Ascii using **opencv-python** and **numpy** (install it by using pip install on your terminal)
+funny python script that converts your camera into Ascii using **opencv-python** and **numpy** 
+(install it by using pip install on your terminal)
 
 ## Settings
 in case you want to try you will probably need to change the settings in *def open_camera* lines such as the index depending in which one your camera is at
